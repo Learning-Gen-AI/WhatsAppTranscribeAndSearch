@@ -14,7 +14,7 @@ This Python script processes WhatsApp chat exports by converting voice notes to 
 
 - Python 3.8 or higher
 - FFmpeg installed and in your system PATH
-- Ollama running locally with a vision-capable model (e.g., llava)
+- Ollama running locally with a vision-capable model (e.g., Llama3.2-Vision)
 
 ### Installing FFmpeg
 
