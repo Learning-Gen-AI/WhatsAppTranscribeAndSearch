@@ -1,0 +1,5 @@
+openai-whisper>=20231117
+requests>=2.31.0
+pathlib>=1.0.1
+logging>=0.5.1.2
+typing>=3.7.4.3
