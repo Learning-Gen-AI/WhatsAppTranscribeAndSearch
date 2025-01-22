@@ -81,7 +81,7 @@ This Python script processes WhatsApp chat exports by converting voice notes to 
 Original chat:
 ```
 [2024/01/22, 17:25:03] John: ‎<attached: 00000019-AUDIO-2024-01-22-17-25-03.opus>
-[2024/01/22, 17:25:30] Jane: Ok, got it
+[2024/01/22, 17:25:30] Jane: Ok, see you now
 ‎[2024/01/22, 17:28:47] John: ‎<attached: 00000021-PHOTO-2024-01-22-17-28-47.jpg>
 ```
 
