@@ -168,7 +168,7 @@ class WhatsAppChatProcessor:
             content: Content to replace the reference with
         """
         try:
-            original_pattern = f"<attached: {filename}>"
+            original_pattern = f"<attached: {filename}>" # This is for WhatsApp chats exported from iOS, for Samsung use this: f"{filename} (file attached)"
             replacement = f"[{media_type}: {content}]"
             self.chat_content = self.chat_content.replace(original_pattern, replacement)
         except Exception as e:
