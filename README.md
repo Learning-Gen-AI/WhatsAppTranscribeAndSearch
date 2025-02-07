@@ -40,7 +40,7 @@ This Python script processes WhatsApp chat exports by converting voice notes to 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Learning-Gen-AI/WhatsAppTranscribeAndSearch.git
+   git clone https://github.com/TheMachineIsLearning/WhatsAppTranscribeAndSearch.git
    cd WhatsAppTranscribeAndSearch
    ```
 
